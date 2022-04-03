@@ -12,6 +12,9 @@ TARGET_SCREEN_DENSITY := 440
 # Inherit from sm6150-common
 -include device/xiaomi/sm6150-common/BoardConfigCommon.mk
 
+# Inherit from proprietary files for miuicamera
+-include vendor/xiaomi/sweet-miuicamera/products/board.mk
+
 DEVICE_PATH := device/xiaomi/sweet
 
 # Properties
