@@ -15,11 +15,11 @@
  {
    "repository": "vantoman/kernel_xiaomi_sm6150",
    "target_path": "kernel/xiaomi/sm6150",
-   "branch": "12.1",
+   "branch": "courbet-12.1",
    "remote": "github"
  },
  {
-   "repository": "LineageOS/android_hardware_xiaomi",
+   "repository": "shashank1439/android_hardware_xiaomi",
    "target_path": "hardware/xiaomi",
    "branch": "lineage-19.1",
    "remote": "github"
