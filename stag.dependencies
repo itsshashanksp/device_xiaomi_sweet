@@ -25,12 +25,6 @@
    "remote": "github"
  },
  {
-   "repository": "basamaryan/vendor_xiaomi_sweet-miuicamera",
-   "target_path": "vendor/xiaomi/sweet-miuicamera",
-   "branch": "12.1",
-   "remote": "gitlab"
- },
- {
    "repository": "PixelOS-Devices/playgroundtc",
    "target_path": "prebuilts/clang/host/linux-x86/clang-playground",
    "branch": "15",
