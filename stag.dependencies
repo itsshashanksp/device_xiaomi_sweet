@@ -6,11 +6,7 @@
  },
  {
    "repository": "vendor_xiaomi_sweet",
-   "target_path": "vendor/xiaomi/sweet"
- },
- {
-   "repository": "vendor_xiaomi_sm6150-common",
-   "target_path": "vendor/xiaomi/sm6150-common"
+   "target_path": "vendor/xiaomi"
  },
  {
    "repository": "vantoman/kernel_xiaomi_sm6150",
