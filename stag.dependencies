@@ -9,9 +9,9 @@
    "target_path": "vendor/xiaomi"
  },
  {
-   "repository": "vantoman/kernel_xiaomi_sm6150",
+   "repository": "shashank1439/kernel_xiaomi_sm6150",
    "target_path": "kernel/xiaomi/sm6150",
-   "branch": "courbet-12.1",
+   "branch": "s12.1",
    "remote": "github"
  },
  {
