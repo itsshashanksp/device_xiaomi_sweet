@@ -21,6 +21,12 @@
    "remote": "github"
  },
  {
+   "repository": "basamaryan/vendor_xiaomi_sweet-miuicamera",
+   "target_path": "vendor/xiaomi/sweet-miuicamera",
+   "branch": "12.1",
+   "remote": "gitlab"
+ },
+ {
    "repository": "kdrag0n/proton-clang",
    "target_path": "prebuilts/clang/host/linux-x86/clang-proton",
    "branch": "master",
