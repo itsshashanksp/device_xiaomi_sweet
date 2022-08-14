@@ -21,9 +21,9 @@
    "remote": "github"
  },
  {
-   "repository": "PixelOS-Devices/playgroundtc",
-   "target_path": "prebuilts/clang/host/linux-x86/clang-playground",
-   "branch": "15",
-   "remote": "gitlab"
+   "repository": "kdrag0n/proton-clang",
+   "target_path": "prebuilts/clang/host/linux-x86/clang-proton",
+   "branch": "master",
+   "remote": "github"
  }
 ]
