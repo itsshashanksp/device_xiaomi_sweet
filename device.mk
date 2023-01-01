@@ -90,7 +90,7 @@ PRODUCT_COPY_FILES += \
 # Overlay
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
-    $(LOCAL_PATH)/overlay-xdroid
+    $(LOCAL_PATH)/overlay-stag
 
 # Overlay-RRO
 PRODUCT_PACKAGES += \

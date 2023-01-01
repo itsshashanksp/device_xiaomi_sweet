@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xdroid_sweet.mk
+    $(LOCAL_DIR)/stag_sweet.mk
 
 COMMON_LUNCH_CHOICES := \
-    xdroid_sweet-user \
-    xdroid_sweet-userdebug \
-    xdroid_sweet-eng
+    stag_sweet-user \
+    stag_sweet-userdebug \
+    stag_sweet-eng
