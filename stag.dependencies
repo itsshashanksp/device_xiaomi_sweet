@@ -6,7 +6,8 @@
  },
  {
    "repository": "vendor_xiaomi_sweet",
-   "target_path": "vendor/xiaomi"
+   "target_path": "vendor/xiaomi",
+   "branch": "t13"
  },
  {
    "repository": "shashank1439/kernel_xiaomi_sm6150",
@@ -15,14 +16,13 @@
    "remote": "github"
  },
  {
-   "repository": "LineageOS/android_hardware_xiaomi",
+   "repository": "hardware_xiaomi",
    "target_path": "hardware/xiaomi",
-   "branch": "lineage-20",
-   "remote": "github"
+   "branch": "t13"
  },
  {
    "repository": "Panchajanya1999/azure-clang",
-   "target_path": "prebuilts/clang/host/linux-x86/clang-proton",
+   "target_path": "prebuilts/clang/host/linux-x86/clang-azure",
    "branch": "main",
    "remote": "gitlab"
  }
