@@ -14,6 +14,9 @@ $(call inherit-product, device/xiaomi/sweet/device.mk)
 # Inherit some common StagOS stuff.
 $(call inherit-product, vendor/stag/main.mk)
 
+# Override  OTA assert
+TARGET_OTA_ASSERT_DEVICE := sweet,sweetin
+
 PRODUCT_NAME := stag_sweet
 PRODUCT_DEVICE := sweet
 PRODUCT_BRAND := Xiaomi
