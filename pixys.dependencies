@@ -1,0 +1,50 @@
+[
+ {
+   "repository" : "itsshashanksp/device_xiaomi_sm6150-common",
+   "target_path": "device/xiaomi/sm6150-common",
+   "branch"     : "t13-sweet-pixys"
+   "remote"     : "github"
+ },
+ {
+   "repository" : "itsshashanksp/vendor_xiaomi_sweet",
+   "target_path": "vendor/xiaomi/sweet",
+   "branch"     : "t13"
+   "remote"     : "github"
+ },
+ {
+   "repository" : "itsshashanksp/vendor_xiaomi_sm6150-common",
+   "target_path": "vendor/xiaomi/sm6150-common",
+   "branch"     : "t13"
+   "remote"     : "github"
+ },
+ {
+   "repository" : "itsshashanksp/kernel_xiaomi_sm6150",
+   "target_path": "kernel/xiaomi/sm6150",
+   "branch"     : "t13",
+   "remote"     : "github"
+ },
+ {
+   "repository" : "itsshashanksp/android_prebuilts_clang_host_linux-x86_clang-r487747c",
+   "target_path": "prebuilts/clang/host/linux-x86/clang-r487747c",
+   "branch"     : "13.0",
+   "remote"     : "gitlab"
+ },
+ {
+   "repository" : "itsshashanksp/android_vendor_xiaomi_sweet-miuicamera",
+   "target_path": "vendor/xiaomi/sweet-miuicamera",
+   "branch"     : "t13",
+   "remote"     : "github"
+ },
+ {
+   "repository" : "itsshashanksp/packages_apps_MusicFX",
+   "target_path": "packages/apps/MusicFX",
+   "branch"     : "t13",
+   "remote"     : "github"
+ },
+ {
+   "repository" : "itsshashanksp/hardware_xiaomi",
+   "target_path": "hardware/xiaomi",
+   "branch"     : "t13",
+   "remote"     : "github"
+ }
+]
