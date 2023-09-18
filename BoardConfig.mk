@@ -10,6 +10,9 @@ include device/xiaomi/sm6150-common/BoardConfigCommon.mk
 # Inherit from proprietary files for miuicamera
 -include vendor/xiaomi/sweet-miuicamera/products/board.mk
 
+# Inherit from proprietary files for MiSound
+-include vendor/xiaomi/sweet-misound/BoardConfigMiSound.mk
+
 DEVICE_PATH := device/xiaomi/sweet
 
 # Assert
