@@ -21,6 +21,9 @@ TARGET_BOOT_ANIMATION_RES := 1080
 OCTAVI_BUILD_TYPE := Official
 OCTAVI_MAINTAINER := itsshashanksp & pbharadwaj_95
 
+# Gapps
+WITH_GAPPS := true
+
 # Faceunlock
 TARGET_FACE_UNLOCK_SUPPORTED := true
 
